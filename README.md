@@ -37,7 +37,7 @@ My work focuses on self-hosted, auditable, operator-owned tooling that reduces r
 
 </div>
 
-> Replace the placeholder links above with the real repository URLs once the repos are public.
+
 
 ---
 
