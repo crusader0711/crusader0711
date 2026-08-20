@@ -85,6 +85,7 @@ My work focuses on self-hosted, auditable, operator-owned tooling that reduces r
 <p align="center">
   <a href="https://github.com/Crusader0711"><img src="https://img.shields.io/badge/GitHub-Crusader0711-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/Crusader2C7"><img src="https://img.shields.io/badge/X-@Crusader2C7-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@Crusader2c7"><img src="https://img.shields.io/badge/Medium-@Crusader2c7-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <!-- Add LinkedIn / personal site badges here when ready -->
 </p>
 
