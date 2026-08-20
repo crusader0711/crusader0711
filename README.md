@@ -4,13 +4,17 @@
 -->
 
 <div align="center">
-  <img src="./assets/header-dark.svg" width="880" alt="Crusader0711 — Obsidian Forged Systems" />
+  <img src="./assets/header.png" width="880" alt="Obsidian Forged Systems — OFS" />
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Crusader0711?label=Followers&style=for-the-badge&color=FF6B00" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Crusader0711?label=Total%20Stars&style=for-the-badge&color=39FF14" alt="Total Stars" />
 </p>
+
+---
 
 ---
 
