@@ -35,7 +35,7 @@ My work focuses on self-hosted, auditable, operator-owned tooling that reduces r
 
 | Project | Description | Status |
 |:--------|:------------|:------:|
-| **[Phased Array Radar](https://github.com/Crusader0711/)** | Custom X-band phased array systems for long-range drone / object detection. Hardware + signal processing + integration layer. | Active |
+| **[Phased Array Radar](https://github.com/Crusader0711/)** | Custom X-band phased array systems for long-range drone / object detection. Hardware + signal processing + integration layer. | PENDING |
 | **[AI Performance Monitor](https://github.com/Crusader0711/)** | On-prem / edge AI performance observability and anomaly detection for agentic and inference workloads. | Active |
 | **[Cyber Threat Intelligence Integration](https://github.com/Crusader0711/)** | Pipelines and tooling that fuse external CTI with local telemetry for cyber-physical risk assessment. | Active |
 
